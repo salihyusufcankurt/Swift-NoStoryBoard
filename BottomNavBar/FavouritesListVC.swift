@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  FavouritesListVC.swift
 //  BottomNavBar
 //
 //  Created by Salih Yusuf Cankurt on 4.02.2020.
@@ -8,13 +8,11 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class FavouritesListVC: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        view.backgroundColor = .systemGray
     }
 
-
 }
-
